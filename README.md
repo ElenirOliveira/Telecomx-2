@@ -129,7 +129,7 @@ feature_importances.sort_values(ascending=False).plot(kind='bar', figsize=(12,6)
 plt.tight_layout()
 plt.show()
 ```
-![Matriz de correlaçao](https://github.com/user-attachments/assets/48ed7b9b-e0ad-46ad-ab23-33d7e7053661)
+![Matriz de correlaçao](https://github.com/ElenirOliveira/Telecomx-2/blob/main/Import%C3%A2ncia%20das%20Vari%C3%A1veis%20-%20RF.png)
 ![Matriz de correlaçao](https://github.com/user-attachments/assets/48ed7b9b-e0ad-46ad-ab23-33d7e7053661)
 ![Matriz de correlaçao](https://github.com/user-attachments/assets/48ed7b9b-e0ad-46ad-ab23-33d7e7053661)
 ## 📊 Entregáveis
