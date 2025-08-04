@@ -131,7 +131,7 @@ plt.show()
 ```
 ![Matriz de correlaçao](https://github.com/ElenirOliveira/Telecomx-2/blob/main/Import%C3%A2ncia%20das%20Vari%C3%A1veis%20-%20RF.png)
 ![Matriz de correlaçao](https://github.com/ElenirOliveira/Telecomx-2/blob/main/Matriz%20-%20Random%20Forest.png)
-![Matriz de correlaçao](https://github.com/user-attachments/assets/48ed7b9b-e0ad-46ad-ab23-33d7e7053661)
+![Matriz de correlaçao](https://github.com/ElenirOliveira/Telecomx-2/blob/main/matriz%20de%20confusao.png)
 ## 📊 Entregáveis
 
 * Pipeline completo de machine learning
