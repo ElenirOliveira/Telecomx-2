@@ -129,7 +129,9 @@ feature_importances.sort_values(ascending=False).plot(kind='bar', figsize=(12,6)
 plt.tight_layout()
 plt.show()
 ```
-
+![Matriz de correlaçao](https://github.com/user-attachments/assets/48ed7b9b-e0ad-46ad-ab23-33d7e7053661)
+![Matriz de correlaçao](https://github.com/user-attachments/assets/48ed7b9b-e0ad-46ad-ab23-33d7e7053661)
+![Matriz de correlaçao](https://github.com/user-attachments/assets/48ed7b9b-e0ad-46ad-ab23-33d7e7053661)
 ## 📊 Entregáveis
 
 * Pipeline completo de machine learning
